@@ -1,7 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF4FA0&height=160&section=header" alt="">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF4FA0&height=170&section=header" alt="">
 
-<h1 align="center">Привет, я Пётр 👋</h1>
-<p align="center">Веб-дизайнер и разработчик · делаю сайты и Telegram-ботов</p>
+<h1 align="center">Привет! Я Пётр 👋</h1>
+
+<p align="center">
+  <a href="https://github.com/kavaldinpetr-pixel">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&pause=900&color=FF4FA0&center=true&vCenter=true&width=620&lines=%D0%92%D0%B5%D0%B1-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%D0%B5%D1%80+%D0%B8+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;%D0%A1%D0%B0%D0%B9%D1%82%D1%8B%2C+Telegram-%D0%B1%D0%BE%D1%82%D1%8B%2C+%D0%B2%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F;%D0%9E%D1%82+%D0%BB%D0%B5%D0%BD%D0%B4%D0%B8%D0%BD%D0%B3%D0%B0+%D0%B4%D0%BE+%D0%B1%D0%BE%D1%82%D0%B0+%D1%81+%D0%BE%D0%BF%D0%BB%D0%B0%D1%82%D0%BE%D0%B9" alt="Веб-дизайнер и разработчик">
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kavaldinpetr-pixel&color=ff4fa0&style=flat" alt="Просмотры профиля">
@@ -17,12 +22,17 @@
 
 ### 🧑‍💻 Чем занимаюсь
 
-- 🎨 Проектирую и верстаю сайты для локального бизнеса — автосервисы, детейлинг, салоны красоты
-- 🤖 Пишу Telegram-ботов на Python: оплата, личный кабинет, админ-панель
-- 🕹️ Люблю необычное: моё портфолио — это 3D-игра прямо в браузере
+- 🎨 **Сайты для бизнеса** — проектирую и верстаю: автосервисы, детейлинг, салоны красоты, лендинги
+- 🤖 **Telegram-боты на Python** — с оплатой, личным кабинетом и админ-панелью (делал VPN-сервис и бот с прокси)
+- 🧩 **Веб-приложения и автоматизация** — берусь и за нестандартные задачи под клиента
+- 🕹️ **Необычное** — например, портфолио в виде 3D-игры в браузере
 - 📈 Открыт к заказам и предложениям о работе
 
-### 🚀 Проекты
+> На GitHub пока лежит часть работ — проектов больше, и берусь за разное.
+
+---
+
+### 🚀 Избранный проект
 
 #### [🏝️ Остров проектов](https://kavaldinpetr-pixel.github.io)
 Портфолио в виде 3D-игры на three.js: едешь по острову на джипе и заглядываешь в работы. Своя физика, свет и шейдеры, звук, карта и достижения. Работает на телефоне и компьютере.
@@ -30,15 +40,13 @@
 <a href="https://kavaldinpetr-pixel.github.io"><img src="https://img.shields.io/badge/▶_Открыть_сайт-0D1117?style=for-the-badge" alt="Открыть сайт"></a>
 <a href="https://kavaldinpetr-pixel.github.io/game.html"><img src="https://img.shields.io/badge/🎮_Играть-0D1117?style=for-the-badge" alt="Играть"></a>
 
+---
+
 ### 🛠️ Стек
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![three.js](https://img.shields.io/badge/three.js-000000?style=flat&logo=threedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=flat&logo=telegram&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,threejs,html,css,git,sqlite,figma&theme=dark" alt="Стек">
+</p>
 
 ### 📊 GitHub
 
